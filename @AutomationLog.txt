@@ -1,0 +1,5 @@
+GetElementControlType returns 0, invalid ControlType!
+GetElementControlType returns 0, invalid ControlType!
+GetElementControlType returns 0, invalid ControlType!
+GetElementControlType returns 0, invalid ControlType!
+GetElementControlType returns 0, invalid ControlType!
